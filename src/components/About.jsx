@@ -11,10 +11,10 @@ const About = () => {
             </div>
             <div className='text-gray-300 justify-center grid sm:grid-cols-2 gap-8 items-center max-w-[1000px] w-full'>
                 <div className='pb-8 pl-4'>
-                    <p className='text-4xl'>Thanks for visiting. You are at the right place...Enjoy</p>
+                    <p className='text-4xl'>I'm a dedicated React.js developer with a passion for building interactive and user-friendly web applications. This is where I demonstrate my expertise and share the projects that define my journey in the world of web development.</p>
                 </div>
                 <div className='pb-8 pl-4'>
-                    <p className='text-2xl'>Thanks for visiting. You are at the right place...Enjoy</p>
+                    <p className='text-2xl'>My motivation goes beyond writing clean and efficient code. It's about solving problems, improving user experiences, and staying up-to-date with the latest web technologies. I'm committed to delivering top-notch solutions.</p>
                 </div>
             </div>
         </div>
