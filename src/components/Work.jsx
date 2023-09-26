@@ -23,7 +23,7 @@ const Work = () => {
                             <a href='https://gbengarock-movie-app.netlify.app/'>
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                             </a>
-                            <a href='https://gbengarock-movie-app.netlify.app/'>
+                            <a href='https://github.com/gbengarock/movie-app'>
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                             </a>
                         </div>
@@ -38,7 +38,7 @@ const Work = () => {
                             <a href='https://paceysoft.com/'>
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                             </a>
-                            <a href='https://paceysoft.com'>
+                            <a href='https://github.com/gbengarock/college-management-system'>
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                             </a>
                         </div>
